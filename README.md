@@ -1,4 +1,4 @@
-# ▍ Donny — DevOps & Infrastructure Engineer
+# ▍ Donny - DevOps & Infrastructure Engineer
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
