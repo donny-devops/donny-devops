@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a DevOps/IT engineer based in **Deerfield Beach, FL** focused on building reliable, secure, and observable infrastructure. I work across the full delivery pipeline — from code to cloud — with a bias toward automation, containerization, and GitOps workflows.
+I'm a DevOps/IT engineer based in **Deerfield Beach, FL** focused on building reliable, secure, and observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows.
 
 - **Infrastructure as Code** with Terraform on AWS
 - **CI/CD pipelines** via GitHub Actions and Jenkins
