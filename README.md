@@ -1,10 +1,10 @@
-# █ Donny - DevOps & Infrastructure Engineer
+# 📦 Donny — DevOps & Platform Engineer
 
 ---
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║ Automating Infrastructure · Securing Pipelines · Shipping Fast ║
+║  Automating Infrastructure · Securing Pipelines · Shipping Fast  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -12,41 +12,59 @@
 
 ## About Me
 
-I'm a DevOps/IT engineer based in **Deerfield Beach, FL** focused on building reliable, secure, and observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows.
+I’m a DevOps/Platform Engineer based in **Deerfield Beach, FL** focused on building reliable, secure, and observable infrastructure. I work across the full delivery pipeline — from code to cloud — with a bias toward automation, containerization, and GitOps workflows.
 
-- • **Infrastructure as Code** with Terraform on AWS
-- • **CI/CD pipelines** via GitHub Actions and Jenkins
-- • **Container orchestration** with Docker and Docker Compose
-- • **API development** in Python (Flask) and TypeScript (Node.js/Express)
-- • **MLOps** — bridging data science and production infrastructure
-- • **Security scanning** integrated directly into delivery pipelines
+- 🏗️ **Infrastructure as Code** with Terraform on AWS (VPC, ECS Fargate, RDS, IAM)
+- ⚡ **CI/CD pipelines** via GitHub Actions and Jenkins — lint, test, scan, deploy
+- 🐳 **Container orchestration** with Docker and Docker Compose
+- 🔐 **Secure APIs** in Python (Flask) and TypeScript (Node.js/Express) with JWT, CodeQL, and dependency review
+- 📊 **Observability** — Prometheus, Grafana, Alertmanager, ELK stack
+- 🤖 **MLOps** — bridging data science and production infrastructure
+
+---
+
+## 🎯 What I’m Looking For
+
+I’m actively seeking **DevOps / Platform / Cloud Engineer** roles where I can own the delivery pipeline end-to-end. Ideal fit:
+- Teams building on **AWS** (ECS, RDS, S3, IAM) with **Terraform** IaC
+- Organisations investing in **developer experience** — fast CI, safe deploys, clear runbooks
+- Companies that treat **security and observability** as first-class concerns, not afterthoughts
+- Remote-friendly or **South Florida** based · Open to relocation for the right opportunity
+
+---
+
+## ⭐ Highlights
+
+> Four things I bring to any platform team on day one:
+
+- ✅ **IaC on AWS** — production-ready Terraform modules for VPC, ECS Fargate, RDS PostgreSQL, and IAM ([`terraform-aws-modules`](https://github.com/donny-devops/terraform-aws-modules))
+- ✅ **GitHub Actions & Jenkins CI/CD** — reusable workflow library covering build, lint, test, CodeQL, Trivy, and GHCR publish ([`github-actions-templates`](https://github.com/donny-devops/github-actions-templates))
+- ✅ **Secure API development** — JWT auth, Zod validation, rate limiting, dependency review baked into every PR ([`node-ts-api-gateway`](https://github.com/donny-devops/node-ts-api-gateway), [`openclaw-revenue-engine`](https://github.com/donny-devops/openclaw-revenue-engine))
+- ✅ **Observability stack** — Prometheus + Grafana dashboards, Alertmanager rules, ELK log pipelines in Docker Compose ([`infra-monitoring-dashboard`](https://github.com/donny-devops/infra-monitoring-dashboard), [`docker-compose-stacks`](https://github.com/donny-devops/docker-compose-stacks))
 
 ---
 
 ## 🔥 Currently Building
 
-> **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** — Flagship revenue-focused application and API service with full CI/CD, CodeQL scanning, dependency review, ESLint, security policy, and production-grade pipeline controls. Most active repo — April 2026.
+> **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** — Self-hosted revenue engine for OpenClaw agents: usage metering, Stripe billing, client invoicing, and earnings dashboards. Full CI/CD, CodeQL, Trivy, ESLint, SECURITY.md, multi-stage Docker, and branch protection. **Most active repo — April 2026.**
 
 ---
 
-## Tech Stack
+## 🧩 Tech Stack
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Backend & APIs
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### DevOps & Infrastructure
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -54,63 +72,69 @@ I'm a DevOps/IT engineer based in **Deerfield Beach, FL** focused on building re
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+### Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
 ### Data & ML
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## What I'm Building
+## 📂 What I’m Building
 
 | Repository | Description | Stack |
 |---|---|---|
-| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) | **Flagship** — Revenue-focused API service with full CI/CD, CodeQL, ESLint, and security controls | Node.js · TypeScript · Docker |
-| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) | Reusable CI/CD workflow library for Docker, Terraform, Python, Node.js/TypeScript, and security scanning | GitHub Actions · YAML |
-| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) | Full REST API with migrations, tests, and Docker Compose | Flask · PostgreSQL · Docker |
-| [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) | TypeScript API gateway with JWT, rate limiting, validation | Node.js · TypeScript · Redis |
-| [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) | Production Terraform modules: VPC, ECS, RDS, IAM | Terraform · AWS |
-| [devops-toolkit](https://github.com/donny-devops/devops-toolkit) | CLI toolkit for health checks, log parsing, container mgmt | Python · Bash |
-| [jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library) | Shared Jenkins pipeline library in Groovy | Jenkins · Groovy |
+| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) | **Flagship** — Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
+| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) | Reusable CI/CD workflow library — Docker, Terraform, Python, Node.js, security | GitHub Actions · YAML |
+| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) | REST API with migrations, tests, CI/CD | Flask · PostgreSQL · Docker |
+| [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) | API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
+| [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) | Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
+| [infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard) | Grafana + Prometheus + Alertmanager + ELK monitoring stack | Grafana · Prometheus |
+| [devops-toolkit](https://github.com/donny-devops/devops-toolkit) | CLI for health checks, log parsing, container management | Python · Bash |
+| [jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library) | Shared Jenkins library with reusable Groovy pipeline steps | Jenkins · Groovy |
+| [docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks) | Production stacks: ELK, Prometheus+Grafana, PostgreSQL HA, Redis | Docker Compose |
 | [postman-api-collections](https://github.com/donny-devops/postman-api-collections) | Curated API collections with Newman CI integration | Postman · JavaScript |
-| [docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks) | Production-ready stacks: ELK, Prometheus, PostgreSQL HA | Docker Compose |
-| [python-automation-scripts](https://github.com/donny-devops/python-automation-scripts) | DevOps automation: AWS tagging, cert rotation, DB backup | Python · AWS |
-| [infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard) | Grafana dashboards + Prometheus configs for infra monitoring | Grafana · Prometheus |
+| [python-automation-scripts](https://github.com/donny-devops/python-automation-scripts) | DevOps automation: AWS tagging, cert rotation, DB backup, Slack alerts | Python · AWS |
 
 ---
 
-## Repository Standards
+## 🤝 For Collaborators
 
-Every repo in this account aims to include:
+All repos welcome contributions. Easiest places to start:
 
-- `README.md` — what it does, why it matters, how to run, how tested, security/CI controls
+- 👉 [`openclaw-revenue-engine` — good first issues](https://github.com/donny-devops/openclaw-revenue-engine/issues?q=label%3A%22good+first+issue%22)
+- 👉 [`github-actions-templates` — help wanted](https://github.com/donny-devops/github-actions-templates/issues?q=label%3A%22help+wanted%22)
+- 📝 Every repo has a `CONTRIBUTING.md`, PR template, and issue templates — jump straight in.
+
+---
+
+## 📋 Repository Standards
+
+Every repo in this account includes:
+
+- `README.md` — what / why / how to run / how tested / security & CI controls
 - `SECURITY.md` — responsible disclosure policy
 - `LICENSE` — explicit usage rights
-- CI workflow — automated test and lint runs
+- CI workflow — automated lint, typecheck, test
 - Dependency review — PR-level supply chain checks
-- CodeQL / code scanning — continuous vulnerability analysis
-- Issue and PR templates — consistent contribution quality
+- CodeQL / Trivy — continuous vulnerability analysis
+- Issue & PR templates — consistent contribution quality
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donny-devops&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/donny-devops)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donny-devops&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/donny-devops)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=donny-devops&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Snake animation](https://raw.githubusercontent.com/donny-devops/donny-devops/output/github-contribution-grid-snake-dark.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donny-devops&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donny-devops&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## Connect
+## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/donny-devops)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://donny-devops.github.io/)
 
-**Deerfield Beach, FL · Open to DevOps/Platform Engineer roles**
+**Deerfield Beach, FL · Open to DevOps / Platform Engineer roles · Remote or South Florida**
