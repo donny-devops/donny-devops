@@ -1,4 +1,4 @@
-# 📦 Donny — DevOps & Platform Engineer
+# 📦 Donny - DevOps & Software Engineer
 
 ---
 
@@ -12,24 +12,20 @@
 
 ## About Me
 
-I’m a DevOps/Platform Engineer based in **Deerfield Beach, FL** focused on building reliable, secure, and observable infrastructure. I work across the full delivery pipeline — from code to cloud — with a bias toward automation, containerization, and GitOps workflows.
+I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable, secure, & observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows.
 
-- 🏗️ **Infrastructure as Code** with Terraform on AWS (VPC, ECS Fargate, RDS, IAM)
+- 🏗️ **Infrastructure as Code** with Terraform on AWS (CDK, IAM, RDS, VPC, CloudFormation)
 - ⚡ **CI/CD pipelines** via GitHub Actions and Jenkins — lint, test, scan, deploy
 - 🐳 **Container orchestration** with Docker and Docker Compose
 - 🔐 **Secure APIs** in Python (Flask) and TypeScript (Node.js/Express) with JWT, CodeQL, and dependency review
-- 📊 **Observability** — Prometheus, Grafana, Alertmanager, ELK stack
-- 🤖 **MLOps** — bridging data science and production infrastructure
+- 📊 **Observability** Prometheus, Grafana, Alertmanager, ELK stack
+- 🤖 **MLOps** bridging data science and production infrastructure
 
 ---
 
 ## 🎯 What I’m Looking For
 
-I’m actively seeking **DevOps / Platform / Cloud Engineer** roles where I can own the delivery pipeline end-to-end. Ideal fit:
-- Teams building on **AWS** (ECS, RDS, S3, IAM) with **Terraform** IaC
-- Organisations investing in **developer experience** — fast CI, safe deploys, clear runbooks
-- Companies that treat **security and observability** as first-class concerns, not afterthoughts
-- Remote-friendly or **South Florida** based · Open to relocation for the right opportunity
+“I’m continually expanding my DevOps / Software / Cloud Engineering expertise to manage the delivery pipeline end‑to‑end.” 
 
 ---
 
@@ -37,16 +33,16 @@ I’m actively seeking **DevOps / Platform / Cloud Engineer** roles where I can 
 
 > Four things I bring to any platform team on day one:
 
-- ✅ **IaC on AWS** — production-ready Terraform modules for VPC, ECS Fargate, RDS PostgreSQL, and IAM ([`terraform-aws-modules`](https://github.com/donny-devops/terraform-aws-modules))
-- ✅ **GitHub Actions & Jenkins CI/CD** — reusable workflow library covering build, lint, test, CodeQL, Trivy, and GHCR publish ([`github-actions-templates`](https://github.com/donny-devops/github-actions-templates))
-- ✅ **Secure API development** — JWT auth, Zod validation, rate limiting, dependency review baked into every PR ([`node-ts-api-gateway`](https://github.com/donny-devops/node-ts-api-gateway), [`openclaw-revenue-engine`](https://github.com/donny-devops/openclaw-revenue-engine))
-- ✅ **Observability stack** — Prometheus + Grafana dashboards, Alertmanager rules, ELK log pipelines in Docker Compose ([`infra-monitoring-dashboard`](https://github.com/donny-devops/infra-monitoring-dashboard), [`docker-compose-stacks`](https://github.com/donny-devops/docker-compose-stacks))
+- ✅ **IaC on AWS** - production-ready Terraform modules for CDK, IAM, RDS, VPC, PostgreSQL ([`terraform-aws-modules`](https://github.com/donny-devops/terraform-aws-modules))
+- ✅ **GitHub Actions & Jenkins CI/CD** - reusable workflow library covering build, lint, test, CodeQL, Trivy, and GHCR publish ([`github-actions-templates`](https://github.com/donny-devops/github-actions-templates))
+- ✅ **Secure API development** - JWT auth, Zod validation, rate limiting, dependency reviews running on every PR ([`node-ts-api-gateway`](https://github.com/donny-devops/node-ts-api-gateway), [`openclaw-revenue-engine`](https://github.com/donny-devops/openclaw-revenue-engine))
+- ✅ **Observability stack** - Prometheus + Grafana dashboards, Alertmanager rules, ELK log pipelines in Docker Compose ([`infra-monitoring-dashboard`](https://github.com/donny-devops/infra-monitoring-dashboard), [`docker-compose-stacks`](https://github.com/donny-devops/docker-compose-stacks))
 
 ---
 
 ## 🔥 Currently Building
 
-> **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** — Self-hosted revenue engine for OpenClaw agents: usage metering, Stripe billing, client invoicing, and earnings dashboards. Full CI/CD, CodeQL, Trivy, ESLint, SECURITY.md, multi-stage Docker, and branch protection. **Most active repo — April 2026.**
+> **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** - Self-hosted revenue engine for OpenClaw agents: usage metering, Stripe billing, client invoicing, and earnings dashboards. Full CI/CD, CodeQL, Trivy, ESLint, SECURITY.md, multi-stage Docker, and branch protection. **Most active repo - April 2026.**
 
 ---
 
@@ -86,17 +82,17 @@ I’m actively seeking **DevOps / Platform / Cloud Engineer** roles where I can 
 
 | Repository | Description | Stack |
 |---|---|---|
-| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) | **Flagship** — Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
-| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) | Reusable CI/CD workflow library — Docker, Terraform, Python, Node.js, security | GitHub Actions · YAML |
-| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) | REST API with migrations, tests, CI/CD | Flask · PostgreSQL · Docker |
-| [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) | API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
-| [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) | Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
-| [infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard) | Grafana + Prometheus + Alertmanager + ELK monitoring stack | Grafana · Prometheus |
-| [devops-toolkit](https://github.com/donny-devops/devops-toolkit) | CLI for health checks, log parsing, container management | Python · Bash |
-| [jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library) | Shared Jenkins library with reusable Groovy pipeline steps | Jenkins · Groovy |
-| [docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks) | Production stacks: ELK, Prometheus+Grafana, PostgreSQL HA, Redis | Docker Compose |
-| [postman-api-collections](https://github.com/donny-devops/postman-api-collections) | Curated API collections with Newman CI integration | Postman · JavaScript |
-| [python-automation-scripts](https://github.com/donny-devops/python-automation-scripts) | DevOps automation: AWS tagging, cert rotation, DB backup, Slack alerts | Python · AWS |
+| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) **Flagship** -Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
+| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) - Reusable CI/CD workflow library - Docker, Terraform, Python, Node.js, security | GitHub Actions · YAML |
+| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) - REST API with migrations, tests, CI/CD - Flask · PostgreSQL · Docker |
+| [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) - API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
+| [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) - Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
+| [infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard) - Grafana + Prometheus + Alertmanager + ELK monitoring stack | Grafana · Prometheus |
+| [devops-toolkit](https://github.com/donny-devops/devops-toolkit) - CLI for health checks, log parsing, container management | Python · Bash |
+| [jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library) - Shared Jenkins library with reusable Groovy pipeline steps | Jenkins · Groovy |
+| [docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks) - Production stacks: ELK, Prometheus+Grafana, PostgreSQL HA, Redis | Docker Compose |
+| [postman-api-collections](https://github.com/donny-devops/postman-api-collections) - Curated API collections with Newman CI integration | Postman · JavaScript |
+| [python-automation-scripts](https://github.com/donny-devops/python-automation-scripts) - DevOps automation: AWS tagging, cert rotation, DB backup, Slack alerts | Python · AWS |
 
 ---
 
@@ -104,9 +100,9 @@ I’m actively seeking **DevOps / Platform / Cloud Engineer** roles where I can 
 
 All repos welcome contributions. Easiest places to start:
 
-- 👉 [`openclaw-revenue-engine` — good first issues](https://github.com/donny-devops/openclaw-revenue-engine/issues?q=label%3A%22good+first+issue%22)
-- 👉 [`github-actions-templates` — help wanted](https://github.com/donny-devops/github-actions-templates/issues?q=label%3A%22help+wanted%22)
-- 📝 Every repo has a `CONTRIBUTING.md`, PR template, and issue templates — jump straight in.
+- 👉 [`openclaw-revenue-engine` - good first issues](https://github.com/donny-devops/openclaw-revenue-engine/issues?q=label%3A%22good+first+issue%22)
+- 👉 [`github-actions-templates` - help wanted](https://github.com/donny-devops/github-actions-templates/issues?q=label%3A%22help+wanted%22)
+- 📝 Every repo has a `CONTRIBUTING.md`, PR template, and issue templates - dive right in.
 
 ---
 
@@ -114,13 +110,13 @@ All repos welcome contributions. Easiest places to start:
 
 Every repo in this account includes:
 
-- `README.md` — what / why / how to run / how tested / security & CI controls
-- `SECURITY.md` — responsible disclosure policy
-- `LICENSE` — explicit usage rights
-- CI workflow — automated lint, typecheck, test
-- Dependency review — PR-level supply chain checks
-- CodeQL / Trivy — continuous vulnerability analysis
-- Issue & PR templates — consistent contribution quality
+- `README.md` - what / why / how to run / how tested / security & CI controls
+- `SECURITY.md` - responsible disclosure policy
+- `LICENSE` - explicit usage rights
+- CI workflow - automated lint, typecheck, test
+- Dependency review - PR-level supply chain checks
+- CodeQL / Trivy - continuous vulnerability analysis
+- Issue & PR templates - consistent contribution quality
 
 ---
 
@@ -137,4 +133,4 @@ Every repo in this account includes:
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://donny-devops.github.io/)
 
-**Deerfield Beach, FL · Open to DevOps / Platform Engineer roles · Remote or South Florida**
+**Boca Raton, FL · Open to DevOps / Software Engineer roles · Remote or South Florida**
