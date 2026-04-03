@@ -84,7 +84,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 |---|---|---|
 | [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) **Flagship** -Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
 | [github-actions-templates](https://github.com/donny-devops/github-actions-templates) - Reusable CI/CD workflow library - Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
-| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) - REST API with migrations, tests, CI/CD - Docker · Flask · PostgreSQL |
+| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) - REST API with migrations, tests, CI/CD | Docker · Flask · PostgreSQL |
 | [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) - API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
 | [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) - Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
 | [infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard) - Grafana + Prometheus + Alertmanager + ELK monitoring stack | Grafana · Prometheus |
