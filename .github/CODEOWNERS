@@ -1,0 +1,12 @@
+# CODEOWNERS
+# Owners are automatically requested for review when pull requests change owned paths.
+
+# Default owner
+* @donny-devops
+
+# Profile, public contact surface, and automation
+README.md @donny-devops
+.github/ @donny-devops
+.github/workflows/ @donny-devops
+.github/dependabot.yml @donny-devops
+SECURITY.md @donny-devops
