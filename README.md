@@ -1,4 +1,4 @@
-# 📦 Donny - DevOps & Software Engineer
+# 📦Adonis Jimenez  - DevOps & Software Engineer
 
 ---
 
@@ -18,7 +18,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 - ⚡ **CI/CD pipelines** via GitHub Actions and Jenkins - lint, test, scan, deploy
 - 🐳 **Container orchestration** with Docker and Docker Compose
 - 🔐 **Secure APIs** in Python (Flask) and TypeScript (Node.js/Express) with JWT, CodeQL, and dependency review
-- 📊 **Observability** Prometheus, Grafana, Alertmanager, ELK stack
+- 📊 **Observability** with Prometheus, Grafana, Alertmanager, ELK stack
 - 🤖 **MLOps** bridging data science and production infrastructure
 
 ---
