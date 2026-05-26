@@ -42,7 +42,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 ## 🔥 Currently Building
 
-> **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** - Self-hosted revenue engine for OpenClaw agents: usage metering, Stripe billing, client invoicing, and earnings dashboards. Full CI/CD, CodeQL, Trivy, ESLint, SECURITY.md, multi-stage Docker, and branch protection. **Most active repo - April 2026.**
+> **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - Post-quantum cryptography reference studio - NIST FIPS 203/204/205 algorithms, migration tooling, and hybrid TLS patterns for the quantum-resistant transition.**
 
 ---
 
@@ -82,7 +82,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 | Repository | Description | Stack |
 |---|---|---|
-| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) **Flagship** -Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
+| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) - Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
 | [github-actions-templates](https://github.com/donny-devops/github-actions-templates) - Reusable CI/CD workflow library - Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
 | [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) - REST API with migrations, tests, CI/CD | Docker · Flask · PostgreSQL |
 | [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) - API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
