@@ -16,8 +16,8 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 - 🏗️ **Infrastructure as Code** with Terraform on AWS (CDK, IAM, RDS, VPC, CloudFormation)
 - ⚡ **CI/CD pipelines** via GitHub Actions and Jenkins - lint, test, scan, deploy
-- 🐳 **Container orchestration** with Docker and Docker Compose
-- 🔐 **Secure APIs** in Python (Flask) and TypeScript (Node.js/Express) with JWT, CodeQL, and dependency review
+- 🐳 **Container orchestration** with Docker and Kubernetes
+- 🔐 **Secure APIs** in Python (FastAPI) and TypeScript (Node.js/Express) with JWT, CodeQL, and dependency review
 - 📊 **Observability** with Prometheus, Grafana, Alertmanager, ELK stack
 - 🤖 **MLOps** bridging data science and production infrastructure
 
