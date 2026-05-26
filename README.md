@@ -85,6 +85,12 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 | [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) | Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
 | [github-actions-templates](https://github.com/donny-devops/github-actions-templates) | Reusable CI/CD workflow library - Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
 | [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) | REST API with migrations, tests, CI/CD | Docker · Flask · PostgreSQL |
+| [fastapi-starter-kit](https://github.com/donny-devops/fastapi-starter-kit) | Production-ready FastAPI boilerplate with JWT auth, SQLite, Alembic migrations, and GitHub Actions CI - clone and ship without the setup overhead |
+| [netpulse](https://github.com/donny-devops/netpulse) | Real-time network monitoring and diagnostics API built with TypeScript and Express - latency tracking, host health checks, and alerting for DevOps infrastructure |
+| [threathunter-api](https://github.com/donny-devops/threathunter-api) | Threat intelligence REST API integrating VirusTotal, AbuseIPDB, Shodan, and GreyNoise - CVE aggregation, CVSS risk scoring, NVD live sync, and real-time IOC enrichment & automated alerting via PagerDuty and Wazuh |
+| [temperature-converter](https://github.com/donny-devops/temperature-converter) | Lightweight Python temperature converter (C↔F) with input validation and 100% test coverage
+| [echozulu-agentops](https://github.com/donny-devops/echozulu-agentops) | EchoZulu-AgentOps is an asynchronously independent event-driven multi-agent pipeline that acts as the intelligent intake, reasoning, and enforcement layer for all AgenticOps - without the need for human interaction |
+| [five-agent-os](https://github.com/donny-devops/five-agent-os) | Multi-agent orchestration system with five specialized AI agents - routing, knowledge, action, memory, and guardian - built on Python and the Anthropic API |
 | [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) | API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
 | [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) | Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
 | [infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard) | Grafana + Prometheus + Alertmanager + ELK monitoring stack | Grafana · Prometheus |
