@@ -4,7 +4,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  Automating Infrastructure · Securing Pipelines · Shipping Fast  ║
+║  Automating Infrastructure · Securing Pipelines · Agentic-Ops    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
