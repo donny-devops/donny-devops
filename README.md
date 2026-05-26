@@ -12,7 +12,7 @@
 
 ## About Me
 
-I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable, secure, & observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows.
+I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable, secure, & observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows
 
 - 🏗️ **Infrastructure as Code** with Terraform on AWS (CDK, IAM, RDS, VPC, CloudFormation)
 - ⚡ **CI/CD pipelines** via GitHub Actions and Jenkins - lint, test, scan, deploy
@@ -42,7 +42,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 ## 🔥 Currently Building
 
-> **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - Post-quantum cryptography reference studio - NIST FIPS 203/204/205 algorithms, migration tooling, and hybrid TLS patterns for the quantum-resistant transition.
+> **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - Post-quantum cryptography reference studio - NIST FIPS 203/204/205 algorithms, migration tooling, and hybrid TLS patterns for the quantum-resistant transition
 
 ---
 
