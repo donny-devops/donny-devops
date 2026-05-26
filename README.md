@@ -42,7 +42,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 ## 🔥 Currently Building
 
-> **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - Post-quantum cryptography reference studio - NIST FIPS 203/204/205 algorithms, migration tooling, and hybrid TLS patterns for the quantum-resistant transition.**
+> **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - Post-quantum cryptography reference studio - NIST FIPS 203/204/205 algorithms, migration tooling, and hybrid TLS patterns for the quantum-resistant transition.
 
 ---
 
