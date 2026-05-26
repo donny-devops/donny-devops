@@ -82,17 +82,17 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 | Repository | Description | Stack |
 |---|---|---|
-| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) - Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
-| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) - Reusable CI/CD workflow library - Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
-| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) - REST API with migrations, tests, CI/CD | Docker · Flask · PostgreSQL |
-| [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) - API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
-| [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) - Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
+| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) | Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
+| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) | Reusable CI/CD workflow library - Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
+| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) | REST API with migrations, tests, CI/CD | Docker · Flask · PostgreSQL |
+| [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) | API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
+| [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) | Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
 | [infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard) - Grafana + Prometheus + Alertmanager + ELK monitoring stack | Grafana · Prometheus |
-| [devops-toolkit](https://github.com/donny-devops/devops-toolkit) - CLI for health checks, log parsing, container management | Python · Bash |
-| [jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library) - Shared Jenkins library with reusable Groovy pipeline steps | Jenkins · Groovy |
-| [docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks) - Production stacks: ELK, Prometheus+Grafana, PostgreSQL HA, Redis | Docker Compose |
-| [postman-api-collections](https://github.com/donny-devops/postman-api-collections) - Curated API collections with Newman CI integration | Postman · JavaScript |
-| [python-automation-scripts](https://github.com/donny-devops/python-automation-scripts) - DevOps automation: AWS tagging, cert rotation, DB backup, Slack alerts | Python · AWS |
+| [devops-toolkit](https://github.com/donny-devops/devops-toolkit) | CLI for health checks, log parsing, container management | Python · Bash |
+| [jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library) | Shared Jenkins library with reusable Groovy pipeline steps | Jenkins · Groovy |
+| [docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks) | Production stacks: ELK, Prometheus+Grafana, PostgreSQL HA, Redis | Docker Compose |
+| [postman-api-collections](https://github.com/donny-devops/postman-api-collections) | Curated API collections with Newman CI integration | Postman · JavaScript |
+| [python-automation-scripts](https://github.com/donny-devops/python-automation-scripts) | DevOps automation: AWS tagging, cert rotation, DB backup, Slack alerts | Python · AWS |
 
 ---
 
