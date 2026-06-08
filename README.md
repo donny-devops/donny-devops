@@ -1,4 +1,4 @@
-# 📦Adonis Jimenez  - DevOps & Software Engineer
+# 📦Adonis Jimenez - IT Specialist & AgentOps/DevOps Engineer
 
 ---
 
