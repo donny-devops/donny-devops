@@ -25,7 +25,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 ## 🎯 What I’m About
 
-“Currently I’m all about expanding my DevOps / Software / Cloud Engineering expertise to manage the delivery pipeline end‑to‑end.” 
+Currently I’m all about expanding my DevOps/AgentOps Engineering expertise to manage the delivery pipeline end‑to‑end
 
 ---
 
