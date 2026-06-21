@@ -1,4 +1,4 @@
-# 📦Adonis Jimenez - IT Specialist & AgentOps/DevOps Engineer
+# 📦Adonis Jimenez - IT Specialist | Developer | AI Enthusiast |
 
 ---
 
@@ -12,12 +12,12 @@
 
 ## About Me
 
-I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable, secure, & observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows
+I’m an IT Specialist & Software Developer from **Boca Raton, FL** and I build reliable, secure, & observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows
 
 - 🏗️ **Infrastructure as Code** with Terraform on AWS (CDK, IAM, RDS, VPC, CloudFormation)
 - ⚡ **CI/CD pipelines** via GitHub Actions and Jenkins - lint, test, scan, deploy
 - 🐳 **Container orchestration** with Docker and Kubernetes
-- 🔐 **Secure APIs** in Python (FastAPI) and TypeScript (Node.js/Express) with JWT, CodeQL, and dependency review
+- 🔐 **Secure APIs** in Python (FastAPI/Flask) and TypeScript (Node.js/Express) with JWT, CodeQL, and dependency review
 - 📊 **Observability** with Prometheus, Grafana, Alertmanager, ELK stack
 - 🤖 **MLOps** bridging data science and production infrastructure
 
@@ -25,7 +25,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 ## 🎯 What I’m About
 
-Currently I’m all about expanding my DevOps/AgentOps Engineering expertise to manage the delivery pipeline end‑to‑end
+"Currently I’m all about expanding my AgenticOps expertise which will integrate flawlesssly with my automations to fully manage delivery pipelines from end‑to‑end."
 
 ---
 
