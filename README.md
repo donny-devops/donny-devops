@@ -1,10 +1,10 @@
-# 📦 Donny - DevOps & Software Engineer
+# 📦Adonis Jimenez - IT Specialist | Developer | AI Enthusiast |
 
 ---
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  Automating Infrastructure · Securing Pipelines · Shipping Fast  ║
+║  Automating Infrastructure · Securing Pipelines · Agentic-Ops    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -12,20 +12,20 @@
 
 ## About Me
 
-I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable, secure, & observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows.
+I’m an IT Specialist & Software Developer from **Boca Raton, FL** and I build reliable, secure, & observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows
 
 - 🏗️ **Infrastructure as Code** with Terraform on AWS (CDK, IAM, RDS, VPC, CloudFormation)
 - ⚡ **CI/CD pipelines** via GitHub Actions and Jenkins - lint, test, scan, deploy
-- 🐳 **Container orchestration** with Docker and Docker Compose
-- 🔐 **Secure APIs** in Python (Flask) and TypeScript (Node.js/Express) with JWT, CodeQL, and dependency review
-- 📊 **Observability** Prometheus, Grafana, Alertmanager, ELK stack
+- 🐳 **Container orchestration** with Docker and Kubernetes
+- 🔐 **Secure APIs** in Python (FastAPI/Flask) and TypeScript (Node.js/Express) with JWT, CodeQL, and dependency review
+- 📊 **Observability** with Prometheus, Grafana, Alertmanager, ELK stack
 - 🤖 **MLOps** bridging data science and production infrastructure
 
 ---
 
 ## 🎯 What I’m About
 
-“Currently I’m all about expanding my DevOps / Software / Cloud Engineering expertise to manage the delivery pipeline end‑to‑end.” 
+"Currently I’m all about expanding my AgenticOps expertise which will integrate flawlesssly with my automations to fully manage delivery pipelines from end‑to‑end."
 
 ---
 
@@ -42,7 +42,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 ## 🔥 Currently Building
 
-> **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** - Self-hosted revenue engine for OpenClaw agents: usage metering, Stripe billing, client invoicing, and earnings dashboards. Full CI/CD, CodeQL, Trivy, ESLint, SECURITY.md, multi-stage Docker, and branch protection. **Most active repo - April 2026.**
+> **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - Post-quantum cryptography reference studio - NIST FIPS 203/204/205 algorithms, migration tooling, and hybrid TLS patterns for the quantum-resistant transition
 
 ---
 
@@ -56,7 +56,7 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
@@ -82,17 +82,23 @@ I’m a DevOps / Software Engineer from **Boca Raton, FL** and I build reliable,
 
 | Repository | Description | Stack |
 |---|---|---|
-| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) **Flagship** -Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
-| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) - Reusable CI/CD workflow library - Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
-| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) - REST API with migrations, tests, CI/CD | Docker · Flask · PostgreSQL |
-| [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) - API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
-| [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) - Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
-| [infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard) - Grafana + Prometheus + Alertmanager + ELK monitoring stack | Grafana · Prometheus |
-| [devops-toolkit](https://github.com/donny-devops/devops-toolkit) - CLI for health checks, log parsing, container management | Python · Bash |
-| [jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library) - Shared Jenkins library with reusable Groovy pipeline steps | Jenkins · Groovy |
-| [docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks) - Production stacks: ELK, Prometheus+Grafana, PostgreSQL HA, Redis | Docker Compose |
-| [postman-api-collections](https://github.com/donny-devops/postman-api-collections) - Curated API collections with Newman CI integration | Postman · JavaScript |
-| [python-automation-scripts](https://github.com/donny-devops/python-automation-scripts) - DevOps automation: AWS tagging, cert rotation, DB backup, Slack alerts | Python · AWS |
+| [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) | Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
+| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) | Reusable CI/CD workflow library - Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
+| [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) | REST API with migrations, tests, CI/CD | Docker · Flask · PostgreSQL |
+| [fastapi-starter-kit](https://github.com/donny-devops/fastapi-starter-kit) | Production-ready FastAPI boilerplate with JWT auth, SQLite, Alembic migrations, and GitHub Actions CI - clone and ship without the setup overhead | Python · FastAPI |
+| [netpulse](https://github.com/donny-devops/netpulse) | Real-time network monitoring and diagnostics API built with TypeScript and Express - latency tracking, host health checks, and alerting for DevOps infrastructure | TypeScript · Express · REST-API |
+| [threathunter-api](https://github.com/donny-devops/threathunter-api) | Threat intelligence REST API integrating VirusTotal, AbuseIPDB, Shodan, and GreyNoise - CVE aggregation, CVSS risk scoring, NVD live sync, and real-time IOC enrichment & automated alerting via PagerDuty and Wazuh | FastAPI · SQLAlchemy · Docker · GitHub Actions |
+| [temperature-converter](https://github.com/donny-devops/temperature-converter) | Lightweight Python temperature converter (C↔F) with input validation and 100% test coverage | JavaScript |
+| [echozulu-agentops](https://github.com/donny-devops/echozulu-agentops) | EchoZulu-AgentOps is an asynchronously independent event-driven multi-agent pipeline that acts as the intelligent intake, reasoning, and enforcement layer for all AgenticOps - without the need for human interaction | Python · Docker · FastAPI · Pydantic · Redis · GitHub Actions |
+| [five-agent-os](https://github.com/donny-devops/five-agent-os) | Multi-agent orchestration system with five specialized AI agents - routing, knowledge, action, memory, and guardian - built on Python and the Anthropic API | Python · FastAPI · Docker · PostgreSQL · Redis |
+| [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) | API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
+| [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) | Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
+| [infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard) | Grafana + Prometheus + Alertmanager + ELK monitoring stack | Grafana · Prometheus |
+| [devops-toolkit](https://github.com/donny-devops/devops-toolkit) | CLI for health checks, log parsing, container management | Python · Bash |
+| [jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library) | Shared Jenkins library with reusable Groovy pipeline steps | Jenkins · Groovy |
+| [docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks) | Production stacks: ELK, Prometheus+Grafana, PostgreSQL HA, Redis | Docker Compose |
+| [postman-api-collections](https://github.com/donny-devops/postman-api-collections) | Curated API collections with Newman CI integration | Postman · JavaScript |
+| [python-automation-scripts](https://github.com/donny-devops/python-automation-scripts) | DevOps automation: AWS tagging, cert rotation, DB backup, Slack alerts | Python · AWS |
 
 ---
 
@@ -130,7 +136,7 @@ Every repo in this account includes:
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/donny-devops)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:271941740+donny-devops@users.noreply.github.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://donny-devops.github.io/)
 
 **Boca Raton, FL · Open to DevOps / Software Engineer roles · Remote or South Florida**
