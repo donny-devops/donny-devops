@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=%E2%80%8BAdonis+Jimenez+%F0%9F%94%AE;%E2%80%8BDevOps+Engineer+%7C+Automation+Architect;%E2%80%8BAI+Agents+%7C+Workflow+Orchestration;%E2%80%8BTailscale+%7C+Docker+%7C+Relay.app+%7C+Hermes;Neon+Systems+Online">
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=%E2%80%8BAdonis+Jimenez+%F0%9F%94%AE;%E2%80%8%BDevOps+Engineer+%7C+Automation+Architect;%E2%80%8BAI+Agents+%7C+Workflow+Orchestration;%E2%80%8B%Tailscale+%7C+Docker+%7C+Hermes;Neon+Systems+Online">
 </h1>
----
 
 ## 🚀 About Me
 DevOps engineer obsessed with automation, AI agents, workflow orchestration, and building secure distributed systems.
