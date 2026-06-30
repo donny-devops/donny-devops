@@ -25,7 +25,7 @@ I’m an IT Specialist & Devops Engineer from **Boca Raton, FL** and I build rel
 
 ## 🎯 What I’m About
 
-"Currently I’m all about expanding my AgenticOps expertise which will integrate flawlesssly with my automations to fully manage delivery pipelines from end‑to‑end."
+"Currently I’m all about expanding my AgentOps expertise which will integrate flawlesssly with my automations to fully manage delivery pipelines from end‑to‑end."
 
 ---
 
