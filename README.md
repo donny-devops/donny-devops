@@ -42,7 +42,7 @@ I’m an IT Specialist & Devops Engineer from **Boca Raton, FL** and I build rel
 
 ## 🔥 Currently Building
 
-> **[loop-engineering](https://github.com/donny-devops/loop-engineering)--Loop-engineering scaffold with automated loops and L3 readiness]**
+> **[loop-engineering](https://github.com/donny-devops/loop-engineering)--Loop-engineering scaffold with automated loops and L3 readiness**
 
 ## 🧩 Tech Stack
 
