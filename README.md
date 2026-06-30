@@ -1,10 +1,16 @@
-# 📦Adonis Jimenez - IT Specialist | Developer | AI Enthusiast |
+<!-- profile stats -->
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=donny-devops&show_icons=true&cache_bust=<?= time() ?>">
+
+<!-- repo card -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=donny-devops&repo=loop-engineering&cache_bust=<?= time() ?>"
+>
+# 📦Adonis Jimenez - IT Specialist | DevOps Engineer | Automation | AgentOps 
 
 ---
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  Automating Infrastructure · Securing Pipelines · Agentic-Ops    ║
+║  Automating Infrastructure · Securing Pipelines · AgentOps       ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -12,7 +18,7 @@
 
 ## About Me
 
-I’m an IT Specialist & Software Developer from **Boca Raton, FL** and I build reliable, secure, & observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows
+I’m an IT Specialist & Devops Engineer from **Boca Raton, FL** and I build reliable, secure, & observable infrastructure. I work across the full delivery pipeline - from code to cloud - with a bias toward automation, containerization, and GitOps workflows
 
 - 🏗️ **Infrastructure as Code** with Terraform on AWS (CDK, IAM, RDS, VPC, CloudFormation)
 - ⚡ **CI/CD pipelines** via GitHub Actions and Jenkins - lint, test, scan, deploy
@@ -82,8 +88,9 @@ I’m an IT Specialist & Software Developer from **Boca Raton, FL** and I build 
 
 | Repository | Description | Stack |
 |---|---|---|
+| **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - Post-quantum cryptography reference studio | NIST FIPS 203/204/205 algorithms · migration tooling · hybrid TLS patterns |
 | [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) | Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
-| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) | Reusable CI/CD workflow library - Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
+| [github-actions-templates](https://github.com/donny-devops/github-actions-templates) | Reusable CI/CD workflow library | Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
 | [docker-flask-postgres-api](https://github.com/donny-devops/docker-flask-postgres-api) | REST API with migrations, tests, CI/CD | Docker · Flask · PostgreSQL |
 | [fastapi-starter-kit](https://github.com/donny-devops/fastapi-starter-kit) | Production-ready FastAPI boilerplate with JWT auth, SQLite, Alembic migrations, and GitHub Actions CI - clone and ship without the setup overhead | Python · FastAPI |
 | [netpulse](https://github.com/donny-devops/netpulse) | Real-time network monitoring and diagnostics API built with TypeScript and Express - latency tracking, host health checks, and alerting for DevOps infrastructure | TypeScript · Express · REST-API |
