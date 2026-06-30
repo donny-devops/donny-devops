@@ -4,7 +4,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  Automating Infrastructure · Securing Pipelines · AgentOps                             ║
+║  Automating Infrastructure · Securing Pipelines · AgentOps       ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
