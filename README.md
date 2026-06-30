@@ -5,11 +5,11 @@
 ---
 
 ## 🚀 About Me
-DevOps engineer obsessed with automation, AI agents, workflow orchestration, and building secure distributed systems.
+DevOps Engineer specializing in automation, AI Agents, workflow orchestration, and building secure distributed systems.
 
 ---
 
-# ⚡ **NEON BADGES (AQUA RECOLORED)**
+# ⚡ **
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Engineer-00E5FF?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -29,6 +29,6 @@ DevOps engineer obsessed with automation, AI agents, workflow orchestration, and
 
 ---
 
-# ⚡ **NEON GLITCH DIVIDER**
+# ⚡ **
 ```md
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
