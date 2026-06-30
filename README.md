@@ -80,7 +80,7 @@ I’m an IT Specialist & Devops Engineer from **Boca Raton, FL** and I build rel
 
 | Repository | Description | Stack |
 |---|---|---|
-| **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - Post-quantum cryptography reference studio | NIST FIPS 203/204/205 algorithms · migration tooling · hybrid TLS patterns |
+| **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - Post-quantum cryptography reference studio | NIST FIPS 203/204/205 algorithms · migration tooling · hybrid TLS patterns | TypeScript · hash-based signatures · hybrid-cryptography · crypto-agility · lattice-based cryptography · cryptographic-inventory · performance-benchmarking |
 | [pqc-sdk](https://github.com/donny-devops/pqc-sdk) |
 | [openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine) | Revenue API: metering, Stripe billing, invoicing, dashboards | Node.js · TypeScript · Docker |
 | [github-actions-templates](https://github.com/donny-devops/github-actions-templates) | Reusable CI/CD workflow library | Docker · Terraform · Python · Node.js · security | GitHub Actions · YAML |
