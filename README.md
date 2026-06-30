@@ -90,8 +90,8 @@ I’m an IT Specialist & Devops Engineer from **Boca Raton, FL** and I build rel
 | [threathunter-api](https://github.com/donny-devops/threathunter-api) | Threat intelligence REST API integrating VirusTotal, AbuseIPDB, Shodan, and GreyNoise - CVE aggregation, CVSS risk scoring, NVD live sync, and real-time IOC enrichment & automated alerting via PagerDuty and Wazuh | FastAPI · SQLAlchemy · Docker · GitHub Actions |
 | [temperature-converter](https://github.com/donny-devops/temperature-converter) | Lightweight Python temperature converter (C↔F) with input validation and 100% test coverage | JavaScript |
 | [echozulu-agentops](https://github.com/donny-devops/echozulu-agentops) | EchoZulu-AgentOps is an asynchronously independent event-driven multi-agent pipeline that acts as the intelligent intake, reasoning, and enforcement layer for all AgenticOps - without the need for human interaction | Python · Docker · FastAPI · Pydantic · Redis · GitHub Actions |
-| [docker-hacking-lab(https://github.com/donny-devops/docker-hacking-lab) |
-| [loop-engineering](https://github.com/donny-devops/loop-engineering) | 
+| [docker-hacking-lab](https://github.com/donny-devops/docker-hacking-lab) | Docker · Ethical Hacking |
+| [loop-engineering](https://github.com/donny-devops/loop-engineering) | CI/CD · Automation |
 | [five-agent-os](https://github.com/donny-devops/five-agent-os) | Multi-agent orchestration system with five specialized AI agents - routing, knowledge, action, memory, and guardian - built on Python and the Anthropic API | Python · FastAPI · Docker · PostgreSQL · Redis |
 | [node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway) | API gateway with JWT auth, Redis rate limiting, Zod validation | Node.js · TypeScript · Redis |
 | [terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules) | Production Terraform modules: VPC, ECS Fargate, RDS, IAM | Terraform · AWS |
