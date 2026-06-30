@@ -1,7 +1,7 @@
 <!-- profile stats -->
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=donny-devops&show_icons=true&cache_bust=<?= time() ?>">
+<img/> width="400" src="https://github-readme-stats.vercel.app/api?username=donny-devops&show_icons=true&cache_bust=<?= time() ?>">
 <!-- repo card -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=donny-devops&repo=loop-engineering&cache_bust=<?= time() ?>">
+<img/> src="https://github-readme-stats.vercel.app/api/pin/?username=donny-devops&repo=loop-engineering&cache_bust=<?= time() ?>">
 # 📦Adonis Jimenez - IT Specialist | DevOps Engineer | Automation | AgentOps 
 
 ---
