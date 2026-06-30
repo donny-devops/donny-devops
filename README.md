@@ -1,4 +1,4 @@
-# Adonis Jimenez - IT Specialist | DevOps Engineer | Automation | AgentOps 
+# Adonis Jimenez - IT Specialist | DevOps Engineer | AI | ML | Automation
 
 ---
 
