@@ -12,9 +12,7 @@ DevOps Engineer specializing in automation, AI Agents, workflow orchestration, a
 
 ---
 
-# ⚡ **
-
-<p align="center">
+⚡<p align="center">
   <img src="https://img.shields.io/badge/DevOps-Engineer-00E5FF?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-Master-00CFFF?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailscale-Networking-0099CC?style=for-the-badge&logo=tailscale&logoColor=white"/>
