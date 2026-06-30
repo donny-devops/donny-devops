@@ -27,9 +27,3 @@ DevOps Engineer specializing in automation, AI Agents, workflow orchestration, a
   <img src="https://img.shields.io/badge/Ethical-Hacking-00B7E5?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Post--Quantum-Crypto-00E5FF?style=for-the-badge&logo=quantconnect&logoColor=white"/>
 </p>
-
----
-
-# ⚡ **
-```md
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
