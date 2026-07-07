@@ -21,7 +21,7 @@
 
 #### Agentic & Autonomous Systems
 
-- **[five-agent-os](https://github.com/donny-devops/five-agent-os)** - Multi-agent orchestration system with specialized workers (routing, knowledge, action, memory, guardian). (models, router, and orchestrator).
+- **[five-agent-os](https://github.com/donny-devops/five-agent-os)** - Multi-agent orchestration system with specialized workers (routing, knowledge, action, memory, guardian).
 - **[echozulu-agentops](https://github.com/donny-devops/echozulu-agentops)** - Asynchronous event-driven multi-agent pipeline serving as the intelligent layer for AgenticOps.
 - **[loop-engineering](https://github.com/donny-devops/loop-engineering)** - Loop engineering scaffold with automated loops and L3 operational readiness.
 
