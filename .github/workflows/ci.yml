@@ -21,12 +21,14 @@ jobs:
         with:
           egress-policy: block
 
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+          check-latest: true
 
       - name: Install dependencies
         run: npm ci
