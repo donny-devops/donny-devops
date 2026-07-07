@@ -1,0 +1,19 @@
+name: "Secure Main Branch"
+target: branch
+enforcement: active
+
+rules:
+  - type: required_signatures
+  - type: required_linear_history
+  - type: required_pull_request_reviews
+    params:
+      required_approving_review_count: 1
+  - type: required_status_checks
+    params:
+      strict: true
+      contexts:
+        - "CI"
+        - "Socket Security"
+        - "Debricked"
+        - "Codacy"
+        - "StepSecurity Harden Runner"
