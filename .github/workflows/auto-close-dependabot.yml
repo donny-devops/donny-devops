@@ -4,14 +4,27 @@ on:
   pull_request:
     types: [closed]
 
+permissions:
+  issues: write
+  contents: read
+
+concurrency:
+  group: autoclose-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   autoclose:
     runs-on: ubuntu-latest
     if: github.actor == 'dependabot[bot]' && github.event.pull_request.merged == true
 
     steps:
-      - name: Close related issues
-        uses: actions/github-script@v9
+      - name: Harden runner
+        uses: step-security/harden-runner@f0b8f6f6d6a9f3e7a8c0d1e3c6b4a2f7c9d2e1a0
+        with:
+          egress-policy: block
+
+      - name: Close related Dependabot issues
+        uses: actions/github-script@9a0c1f4b7e3d2c6a1f8b0e7d4c3a2f1e0b9d8c7
         with:
           script: |
             const issues = await github.rest.issues.listForRepo({
@@ -30,3 +43,5 @@ jobs:
                 });
               }
             }
+
+    retention-days: 3
