@@ -43,5 +43,3 @@ jobs:
                 });
               }
             }
-
-    retention-days: 3
