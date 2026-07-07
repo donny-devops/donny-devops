@@ -23,10 +23,10 @@ jobs:
           egress-policy: block
 
       - name: Checkout repository
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
 
       - name: Setup Node
-        uses: actions/setup-node@8f9e8d8e3e6b9f3a1c0d2e7b4a5c6d7e8f9a0b1c # v4.0.2
+        uses: actions/setup-node@8f9e8d8e3e6b9f3a1c0d2e7b4a5c6d7e8f9a0b1c
         with:
           node-version: "20"
           check-latest: true
