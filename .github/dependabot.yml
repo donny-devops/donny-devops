@@ -1,11 +1,49 @@
 version: 2
 updates:
+  # GitHub Actions
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
+    open-pull-requests-limit: 5
 
     groups:
       actions-all:
+        patterns:
+          - "*"
+
+  # npm (if you add JS tooling later)
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+
+    groups:
+      npm-all:
+        patterns:
+          - "*"
+
+  # Docker (if you add Dockerfiles)
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+
+    groups:
+      docker-all:
+        patterns:
+          - "*"
+
+  # Terraform (if you add IaC)
+  - package-ecosystem: "terraform"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+
+    groups:
+      terraform-all:
         patterns:
           - "*"
