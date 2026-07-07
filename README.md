@@ -1,6 +1,6 @@
 # Adonis Jimenez - @donny-devops
 
-**Solutions Architect | Technical Writer | QA Engineer | Agentic Systems Specialist**  
+**Solutions Architect  |  Technical Writer  |  QA Engineer |  Agentic Systems Specialist**  
 
 **DevOps • API Development • InfoSec • Ethical Hacking**
 
