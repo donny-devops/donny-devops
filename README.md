@@ -61,12 +61,15 @@
 
 ### Repository Standards
 
-All repositories follow enterprise-grade practices:
+Core and flagship repositories follow enterprise-grade practices, and these
+standards are being rolled out consistently across the rest of the portfolio:
 
 - Detailed READMEs with architecture, setup, and testing instructions
-- SECURITY.md with responsible disclosure policy
+- `SECURITY.md` with a coordinated (responsible) disclosure policy
+- MIT-licensed source with a clear `LICENSE` file
 - Automated CI/CD with linting, tests, CodeQL, Trivy, and dependency review
-- Issue & PR templates
+- Shared issue & pull-request templates and a Code of Conduct via a central
+  [`.github`](https://github.com/donny-devops/.github) community-health repo
 
 ---
 
