@@ -12,7 +12,7 @@ updates:
         patterns:
           - "*"
 
-  # npm (if you add JS tooling later)
+  # npm
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
@@ -24,7 +24,7 @@ updates:
         patterns:
           - "*"
 
-  # Docker (if you add Dockerfiles)
+  # Docker
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
@@ -36,7 +36,7 @@ updates:
         patterns:
           - "*"
 
-  # Terraform (if you add IaC)
+  # Terraform
   - package-ecosystem: "terraform"
     directory: "/"
     schedule:
