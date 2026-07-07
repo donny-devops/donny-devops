@@ -1,29 +1,11 @@
-# Dependabot configuration for the donny-devops profile repository.
-# This repo primarily contains profile README/workflow assets, so only GitHub
-# Actions updates are enabled. Add npm/pip/docker ecosystems later only after
-# those package manifests exist in this repository.
-
 version: 2
-
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
-      day: "tuesday"
-      time: "06:00"
-      timezone: "America/New_York"
-    open-pull-requests-limit: 5
-    labels:
-      - "dependencies"
-      - "github-actions"
-    commit-message:
-      prefix: "chore(actions)"
-      include: "scope"
+
     groups:
-      actions-updates:
+      actions-all:
         patterns:
           - "*"
-        update-types:
-          - "minor"
-          - "patch"
