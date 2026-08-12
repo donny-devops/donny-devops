@@ -23,7 +23,7 @@ jobs:
           egress-policy: audit
 
       - name: Checkout repository
-        uses: actions/checkout@v7.0.0
+        uses: actions/checkout@v7.0.1
 
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
