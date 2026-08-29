@@ -22,8 +22,6 @@
 #### Agentic & Autonomous Systems
 
 - **[five-agent-os](https://github.com/donny-devops/five-agent-os)** - Multi-agent orchestration system with specialized workers (routing, knowledge, action, memory, guardian).
-- **[echozulu-agentops](https://github.com/donny-devops/echozulu-agentops)** - Asynchronous event-driven multi-agent pipeline serving as the intelligent layer for AgenticOps.
-- **[loop-engineering](https://github.com/donny-devops/loop-engineering)** - Loop engineering scaffold with automated loops and L3 operational readiness.
 
 #### Information Security & Post-Quantum Cryptography
 
@@ -44,7 +42,6 @@
 #### Additional Tools & Stacks
 
 - **[docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks)** - Production-ready Docker Compose templates for high-availability services.
-- **[devops-toolkit](https://github.com/donny-devops/devops-toolkit)** - CLI utilities for health checks, automation, and container management.
 
 ---
 
