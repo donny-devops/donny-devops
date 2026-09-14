@@ -1,10 +1,10 @@
 # Adonis Jimenez - @donny-devops
 
-**Solutions Architect  |  Technical Writer  |  QA Engineer |  Agentic Systems Specialist**  
+**Solutions Architect • DevOps Engineer • Agentic Systems Specialist**  
 
 **DevOps • API Development • InfoSec • Ethical Hacking**
 
-**Boca Raton, FL** • Building secure, autonomous infrastructure and scalable, compliant systems that solve real-world problems in sales, marketing, and operations for the **Agentic AI era**.
+**Miami-Ft. Lauderdale Area** • Building secure, autonomous infrastructure and scalable, compliant systems that solve real-world problems in sales, marketing, and operations for the **Agentic AI era**.
 
 ---
 
@@ -27,7 +27,6 @@
 
 - **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - NIST FIPS 203/204/205 reference implementation, hybrid TLS patterns, and crypto-agility tooling.
 - **[pqc-sdk](https://github.com/donny-devops/pqc-sdk)** - Post-Quantum Cryptography SDK (Kyber, Dilithium, SPHINCS+).
-- **[threathunter-api](https://github.com/donny-devops/threathunter-api)** - Threat intelligence REST API integrating multiple sources with CVE aggregation and real-time alerting.
 - **[docker-hacking-lab](https://github.com/donny-devops/docker-hacking-lab)** - Dockerized ethical hacking and CTF security testing environment.
 
 #### DevOps & Platform Engineering
@@ -47,12 +46,14 @@
 
 ### Tech Stack Highlights
 
-**Languages & Frameworks**: Python, TypeScript, Node.js, Next.js, FastAPI, Flask, Django, Express, React 
-**Cloud & Infrastructure**: AWS, Azure, GCP, Digital Ocean, Terraform, Docker, Kubernetes  
-**Automation**: GitHub Actions, Jenkins, n8n, Make.com, Zapier, UiPath, RPA, AgenticOps, Loop Engineering  
-**Data**: PostgreSQL, Supabase, SQLite, DuckDB, ClickHouse, ETL / ELT  
-**InfoSec**: Post-Quantum Cryptography, Digital Forensics, Ethical Hacking, Penetration Testing, Threat Hunting, Malware Analysis, SIEM  
-**Observability**: Datadog, Prometheus, Grafana, ELK Stack
+**Languages & Frameworks**: Python, TypeScript, Rust, Node.js, FastAPI, SQLAlchemy, Pydantic
+**Cloud & Infrastructure**: AWS, Azure, GCP, DigitalOcean, Terraform, Docker, Kubernetes  
+**Automation**: GitHub Actions, Jenkins, n8n, Make.com, Relay.app, UiPath, AgenticOps, Loop Engineering 
+**AI & LLMs**: Anthropic Claude, Mistral AI, Prompt Engineering, Multi-Agent Orchestration
+**Data**: PostgreSQL, Supabase, Redis, SQLite, DuckDB, ClickHouse, Snowflake, Fivetran, Microsoft Fabric, Power BI, Tableau
+**InfoSec**: Post-Quantum Cryptography (ML-KEM, SLH-DSA), Penetration Testing, Threat Hunting, Malware Analysis, Digital Forensics
+**Testing & QA**: PyTest, Playwright, Jest, Postman
+**Observability**: Datadog, Prometheus, Grafana, ELK Stack, OpenTelemetry
 
 ---
 
