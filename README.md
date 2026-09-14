@@ -47,12 +47,19 @@
 ### Tech Stack Highlights
 
 **Languages & Frameworks**: Python, TypeScript, Rust, Node.js, FastAPI, SQLAlchemy, Pydantic
-**Cloud & Infrastructure**: AWS, Azure, GCP, DigitalOcean, Terraform, Docker, Kubernetes  
-**Automation**: GitHub Actions, Jenkins, n8n, Make.com, Relay.app, UiPath, AgenticOps, Loop Engineering 
+
+**Cloud & Infrastructure**: AWS, Azure, GCP, DigitalOcean, Terraform, Docker, Kubernetes
+
+**Automation**: GitHub Actions, Jenkins, n8n, Make.com, Relay.app, UiPath, AgenticOps, Loop Engineering
+
 **AI & LLMs**: Anthropic Claude, Mistral AI, Prompt Engineering, Multi-Agent Orchestration
+
 **Data**: PostgreSQL, Supabase, Redis, SQLite, DuckDB, ClickHouse, Snowflake, Fivetran, Microsoft Fabric, Power BI, Tableau
+
 **InfoSec**: Post-Quantum Cryptography (ML-KEM, SLH-DSA), Penetration Testing, Threat Hunting, Malware Analysis, Digital Forensics
+
 **Testing & QA**: PyTest, Playwright, Jest, Postman
+
 **Observability**: Datadog, Prometheus, Grafana, ELK Stack, OpenTelemetry
 
 ---
