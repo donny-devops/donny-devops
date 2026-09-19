@@ -28,6 +28,7 @@
 - **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - NIST FIPS 203/204/205 reference implementation, hybrid TLS patterns, and crypto-agility tooling.
 - **[pqc-sdk](https://github.com/donny-devops/pqc-sdk)** - Post-Quantum Cryptography SDK (Kyber, Dilithium, SPHINCS+).
 - **[docker-hacking-lab](https://github.com/donny-devops/docker-hacking-lab)** - Dockerized ethical hacking and CTF security testing environment.
+- **[pipefish-recon](https://github.com/donny-devops/pipefish-recon)** - Post-quantum multi-agent threat intelligence platform (Rust).
 
 #### DevOps & Platform Engineering
 
@@ -36,11 +37,16 @@
 - **[fastapi-starter-kit](https://github.com/donny-devops/fastapi-starter-kit)** - Production-ready FastAPI boilerplate with JWT auth, Alembic migrations, Docker, and full CI/CD. Designed for rapid, secure API deployment.
 - **[node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway)** - TypeScript API Gateway with JWT authentication, Redis rate limiting, and Zod validation.
 - **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** - Self-hosted revenue metering, billing, and dashboard engine for agent orchestration platforms.
+- **[cloudflare-workers-templates](https://github.com/donny-devops/cloudflare-workers-templates)** - Cloudflare Workers & Workflows starter (real-time WebSockets, Durable Objects, Vite + Tailwind).
+- **[devops-toolkit](https://github.com/donny-devops/devops-toolkit)** - Swiss-army CLI for cloud health checks, log parsing, cluster triage, and Kubernetes/AWS auditing.
 - **[infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard)** - Full observability stack (Prometheus + Grafana + Alertmanager + ELK).
 
 #### Additional Tools & Stacks
 
 - **[docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks)** - Production-ready Docker Compose templates for high-availability services.
+- **[python-automation-scripts](https://github.com/donny-devops/python-automation-scripts)** - AWS resource tagging, certificate rotation, and cloud automation.
+- **[jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library)** - Shared Groovy pipeline library for CI/CD as code.
+- **[postman-api-collections](https://github.com/donny-devops/postman-api-collections)** - Curated Postman collections with Newman CI integration.
 
 ---
 
