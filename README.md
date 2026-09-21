@@ -1,8 +1,8 @@
 # Adonis Jimenez - @donny-devops
 
-**Solutions Architect • DevOps Engineer • Agentic Systems Specialist**  
+**DevOps Engineer • Agentic Systems Specialist**  
 
-**DevOps • API Development • InfoSec • Ethical Hacking**
+**DevOps • API Dev • InfoSec • Ethical Hacking**
 
 **Miami-Ft. Lauderdale Area** • Building secure, autonomous infrastructure and scalable, compliant systems that solve real-world problems in sales, marketing, and operations for the **Agentic AI era**.
 
