@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=400&color=00D4FF&center=true&vCenter=true&width=640&lines=%F0%9F%90%9F+Adonis+Jimenez;DevOps+Engineer+%7C+Agentic+Systems;Post-Quantum+Security+Specialist;Building+the+Agentic+AI+Era" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=400&color=00D4FF&center=true&vCenter=true&width=920&lines=Adonis+Jimenez+%7C+DevOps+Engineer;PipeFish+Labs+-+Business+Automation+Solutions;%7E+Enterprise+Operational+Intelligence+%7E+Workflow+Orchestration+%7E+Data+Pipelines" alt="Typing SVG" />
 
 <br/>
 
