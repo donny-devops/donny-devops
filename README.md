@@ -1,97 +1,147 @@
-# Adonis Jimenez - @donny-devops
+<div align="center">
 
-**DevOps Engineer • Agentic Systems Specialist**  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=400&color=00D4FF&center=true&vCenter=true&width=640&lines=%F0%9F%90%9F+Adonis+Jimenez;DevOps+Engineer+%7C+Agentic+Systems;Post-Quantum+Security+Specialist;Building+the+Agentic+AI+Era" alt="Typing SVG" />
 
-**DevOps • API Dev • InfoSec • Ethical Hacking**
+<br/>
 
-**Miami-Ft. Lauderdale Area** • Building secure, autonomous infrastructure and scalable, compliant systems that solve real-world problems in sales, marketing, and operations for the **Agentic AI era**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-pipefishlabs.io-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pipefishlabs.io)
+[![GitHub](https://img.shields.io/badge/GitHub-donny--devops-E040FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/donny-devops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adonis_Jimenez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonisjimenez/)
+[![Email](https://img.shields.io/badge/Email-adonis--jimenez%40outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonis-jimenez@outlook.com)
 
----
+<img src="https://visitor-badge.laobi.icu/badge?page_id=donny-devops.donny-devops&left_color=00D4FF&right_color=E040FF" alt="visitors" />
 
-### Currently Focused On
-
-- **Post-Quantum Cryptography** migration tooling and hybrid cryptographic systems
-- **AgenticOps & Multi-Agent Orchestration** frameworks for autonomous operations
-- Production-grade **Infrastructure as Code**, CI/CD pipelines, and observability platforms
-- End-to-end **Robotic Process Automation (RPA)**, **Workflow Orchestration**, and **Loop Engineering**
+</div>
 
 ---
 
-### Key Repositories & Impact
+## ⚡ GitHub Achievements & Stats
 
-#### Agentic & Autonomous Systems
+<div align="center">
+  <a href="https://github.com/donny-devops">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donny-devops&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donny-devops&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  </a>
+</div>
 
-- **[five-agent-os](https://github.com/donny-devops/five-agent-os)** - Multi-agent orchestration system with specialized workers (routing, knowledge, action, memory, guardian).
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donny-devops&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
-#### Information Security & Post-Quantum Cryptography
+### 🏆 Achievement Trophies
 
-- **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - NIST FIPS 203/204/205 reference implementation, hybrid TLS patterns, and crypto-agility tooling.
-- **[pqc-sdk](https://github.com/donny-devops/pqc-sdk)** - Post-Quantum Cryptography SDK (Kyber, Dilithium, SPHINCS+).
-- **[docker-hacking-lab](https://github.com/donny-devops/docker-hacking-lab)** - Dockerized ethical hacking and CTF security testing environment.
-- **[pipefish-recon](https://github.com/donny-devops/pipefish-recon)** - Post-quantum multi-agent threat intelligence platform (Rust).
-
-#### DevOps & Platform Engineering
-
-- **[terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules)** - Production-ready Terraform modules for AWS (VPC, ECS Fargate, RDS PostgreSQL, IAM). Used as foundational building blocks across multiple environments.
-- **[github-actions-templates](https://github.com/donny-devops/github-actions-templates)** - Reusable secure CI/CD workflow library with linting, security scanning, and multi-language support.
-- **[fastapi-starter-kit](https://github.com/donny-devops/fastapi-starter-kit)** - Production-ready FastAPI boilerplate with JWT auth, Alembic migrations, Docker, and full CI/CD. Designed for rapid, secure API deployment.
-- **[node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway)** - TypeScript API Gateway with JWT authentication, Redis rate limiting, and Zod validation.
-- **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** - Self-hosted revenue metering, billing, and dashboard engine for agent orchestration platforms.
-- **[cloudflare-workers-templates](https://github.com/donny-devops/cloudflare-workers-templates)** - Cloudflare Workers & Workflows starter (real-time WebSockets, Durable Objects, Vite + Tailwind).
-- **[devops-toolkit](https://github.com/donny-devops/devops-toolkit)** - Swiss-army CLI for cloud health checks, log parsing, cluster triage, and Kubernetes/AWS auditing.
-- **[infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard)** - Full observability stack (Prometheus + Grafana + Alertmanager + ELK).
-
-#### Additional Tools & Stacks
-
-- **[docker-compose-stacks](https://github.com/donny-devops/docker-compose-stacks)** - Production-ready Docker Compose templates for high-availability services.
-- **[python-automation-scripts](https://github.com/donny-devops/python-automation-scripts)** - AWS resource tagging, certificate rotation, and cloud automation.
-- **[jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library)** - Shared Groovy pipeline library for CI/CD as code.
-- **[postman-api-collections](https://github.com/donny-devops/postman-api-collections)** - Curated Postman collections with Newman CI integration.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=donny-devops&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
+</div>
 
 ---
 
-### Tech Stack Highlights
+## 🧠 About Me
 
-**Languages & Frameworks**: Python, TypeScript, Rust, Node.js, FastAPI, SQLAlchemy, Pydantic
+<details open>
+<summary><b>💡 Tap to read more</b></summary>
+<br>
 
-**Cloud & Infrastructure**: AWS, Azure, GCP, DigitalOcean, Terraform, Docker, Kubernetes
+Solutions Architect • DevOps Engineer • Agentic Systems Specialist — based in the **Miami–Ft. Lauderdale area**, building secure, autonomous infrastructure and scalable, compliant systems for the **Agentic AI era**.
 
-**Automation**: GitHub Actions, Jenkins, n8n, Make.com, Relay.app, UiPath, AgenticOps, Loop Engineering
+- 🛡️ **Post-Quantum Cryptography** migration & hybrid cryptographic systems
+- 🤖 **AgenticOps & Multi-Agent Orchestration** for autonomous operations
+- 🏗️ Production-grade **IaC, CI/CD, and observability** platforms
+- 🔁 End-to-end **RPA, Workflow Orchestration & Loop Engineering**
 
-**AI & LLMs**: Anthropic Claude, Mistral AI, Prompt Engineering, Multi-Agent Orchestration
-
-**Data**: PostgreSQL, Supabase, Redis, SQLite, DuckDB, ClickHouse, Snowflake, Fivetran, Microsoft Fabric, Power BI, Tableau
-
-**InfoSec**: Post-Quantum Cryptography (ML-KEM, SLH-DSA), Penetration Testing, Threat Hunting, Malware Analysis, Digital Forensics
-
-**Testing & QA**: PyTest, Playwright, Jest, Postman
-
-**Observability**: Datadog, Prometheus, Grafana, ELK Stack, OpenTelemetry
+</details>
 
 ---
 
-### Repository Standards
+## 🛠️ Tech Stack
 
-Core and flagship repositories follow enterprise-grade practices, and these
-standards are being rolled out consistently across the rest of the portfolio:
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DE3C22?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- Detailed READMEs with architecture, setup, and testing instructions
-- `SECURITY.md` with a coordinated (responsible) disclosure policy
-- MIT-licensed source with a clear `LICENSE` file
-- Automated CI/CD with linting, tests, CodeQL, Trivy, and dependency review
-- Shared issue & pull-request templates and a Code of Conduct via a central
-  [`.github`](https://github.com/donny-devops/.github) community-health repo
+### ⚙️ Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🤖 AI & Agentic Systems
+![Claude](https://img.shields.io/badge/Claude-C9813A?style=for-the-badge&logo=anthropic&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+### 🗄️ Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### 🛡️ Security
+![PQC](https://img.shields.io/badge/Post--Quantum-7B2FF7?style=for-the-badge&logo=lock&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ---
 
-### 🤝 Let's Connect
+## 📦 Key Repositories
 
-Open to **consulting, full-time roles, collaborations, and contributions** in Agentic AI infrastructure, post-quantum security, and modern DevOps platforms.
+<details>
+<summary><b>🤖 Agentic & Autonomous Systems</b></summary>
+<br>
 
-📧 **adonis-jimenez@outlook.com**  
+- **[five-agent-os](https://github.com/donny-devops/five-agent-os)** — Multi-agent orchestration with specialized workers (routing, knowledge, action, memory, guardian).
+- **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** — Self-hosted revenue metering, billing & dashboard engine for agent platforms.
+- **[pipefish-recon](https://github.com/donny-devops/pipefish-recon)** — Post-quantum multi-agent threat intelligence platform (Rust).
 
-💼 [LinkedIn](https://www.linkedin.com/in/adonisjimenez/) (preferred)
+</details>
+
+<details>
+<summary><b>🛡️ Security & Post-Quantum</b></summary>
+<br>
+
+- **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** — NIST FIPS 203/204/205 reference implementation & hybrid TLS patterns.
+- **[pqc-sdk](https://github.com/donny-devops/pqc-sdk)** — Post-Quantum Cryptography SDK (Kyber, Dilithium, SPHINCS+).
+- **[docker-hacking-lab](https://github.com/donny-devops/docker-hacking-lab)** — Dockerized ethical hacking & CTF lab.
+
+</details>
+
+<details>
+<summary><b>🏗️ DevOps & Platform Engineering</b></summary>
+<br>
+
+- **[terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules)** — Production-ready Terraform modules (VPC, ECS, RDS, IAM).
+- **[github-actions-templates](https://github.com/donny-devops/github-actions-templates)** — Reusable secure CI/CD workflow library.
+- **[fastapi-starter-kit](https://github.com/donny-devops/fastapi-starter-kit)** — FastAPI boilerplate: JWT, Alembic, Docker, full CI/CD.
+- **[node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway)** — TypeScript API gateway with JWT, Redis rate limiting, Zod.
+- **[devops-toolkit](https://github.com/donny-devops/devops-toolkit)** — Swiss-army `dtk` CLI for health checks, log parsing, cluster triage.
+
+</details>
 
 ---
 
-*Quality, personalized, & secure solutions. Consistent delivery. Measurable business impact.*
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:adonis-jimenez@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adonisjimenez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://pipefishlabs.io"><img src="https://img.shields.io/badge/pipefishlabs.io-00D4FF?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <i>Quality, personalized & secure solutions. Consistent delivery. Measurable business impact.</i>
+</div>
