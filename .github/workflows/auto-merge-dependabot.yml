@@ -19,12 +19,15 @@ jobs:
 
     steps:
       - name: Harden runner
-        uses: step-security/harden-runner@f0b8f6f6d6a9f3e7a8c0d1e3c6b4a2f7c9d2e1a0
+        uses: step-security/harden-runner@fa2e9d605c4eeb9fcad4c99c224cee0c6c7f3594 # v2.16.0
         with:
           egress-policy: block
+          allowed-endpoints: >
+            api.github.com:443
+            github.com:443
 
       - name: Auto-approve Dependabot PR
-        uses: actions/github-script@9a0c1f4b7e3d2c6a1f8b0e7d4c3a2f1e0b9d8c7
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
         with:
           script: |
             await github.rest.pulls.createReview({
@@ -35,7 +38,7 @@ jobs:
             });
 
       - name: Enable auto-merge
-        uses: actions/github-script@9a0c1f4b7e3d2c6a1f8b0e7d4c3a2f1e0b9d8c7
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
         with:
           script: |
             await github.rest.pulls.merge({

@@ -12,8 +12,9 @@ rules:
     params:
       strict: true
       contexts:
-        - "CI"
-        - "Socket Security"
-        - "Debricked"
-        - "Codacy"
-        - "StepSecurity Harden Runner"
+        # Must match an actual reporting check, or PRs will be permanently
+        # blocked. This is the "Green check" job from health.yml — the only
+        # workflow that currently runs on pull_request. Add third-party
+        # contexts (Socket Security, Debricked, Codacy, etc.) back here only
+        # once those integrations are actually installed on this repo.
+        - "Green check"
