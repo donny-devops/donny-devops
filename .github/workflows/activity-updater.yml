@@ -1,0 +1,57 @@
+name: Update Profile Activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/update_activity.py"
+      - ".github/workflows/activity-updater.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-activity:
+    name: Sync GitHub Activity
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Harden runner
+        uses: step-security/harden-runner@fa2e9d605c4eeb9fcad4c99c224cee0c6c7f3594 # v2.16.0
+        with:
+          egress-policy: audit
+
+      - name: Checkout repository
+        uses: actions/checkout@v7.0.1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update README with recent activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python .github/scripts/update_activity.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(activity): sync latest profile activity [skip ci]"
+            git push
+          else
+            echo "No activity changes detected."
+          fi
