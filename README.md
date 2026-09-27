@@ -154,10 +154,8 @@ Solutions Architect • DevOps Engineer • Agentic Systems Specialist — based
 - **[terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules)** — Production-ready Terraform modules for AWS (VPC, ECS, RDS, IAM, Zero-Trust).
 - **[github-actions-templates](https://github.com/donny-devops/github-actions-templates)** — Reusable secure CI/CD workflows, release automation, and OIDC pipelines.
 - **[jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library)** — Shared Groovy pipeline library for enterprise CI/CD-as-code.
-- **[devops-toolkit](https://github.com/donny-devops/devops-toolkit)** — Swiss-army `dtk` CLI for cloud health checks, automated log parsing, and cluster triage.
 - **[infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard)** — Production Grafana dashboards + Prometheus + Alertmanager stack.
 - **[fastapi-starter-kit](https://github.com/donny-devops/fastapi-starter-kit)** — Production-ready FastAPI boilerplate: async SQLAlchemy, JWT auth, Alembic & Docker.
-- **[node-ts-api-gateway](https://github.com/donny-devops/node-ts-api-gateway)** — TypeScript API Gateway with JWT auth, Redis rate limiting, and Zod validation.
 - **[cloudflare-workers-templates](https://github.com/donny-devops/cloudflare-workers-templates)** — Production Cloudflare Workers & Workflows starter with real-time WebSocket state streaming.
 
 </details>
