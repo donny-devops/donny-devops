@@ -66,12 +66,12 @@ Solutions Architect • DevOps Engineer • Agentic Systems Specialist — based
 ## 📡 Live Recent Activity
 
 <!-- RECENT_ACTIVITY:START -->
+- ⭐ **Starred repository** [`CVEProject/cvelistV5`](https://github.com/CVEProject/cvelistV5) &nbsp;·&nbsp; *`2026-10-01`*
+- ⭐ **Starred repository** [`google/security-testbeds`](https://github.com/google/security-testbeds) &nbsp;·&nbsp; *`2026-10-01`*
 - 🌱 **Created branch** `main` in [`api-saas-decision-engine`](https://github.com/donny-devops/api-saas-decision-engine) &nbsp;·&nbsp; *`2026-09-29`*
 - 🚀 **Pushed commits** to `main` in [`openclaw-revenue-engine`](https://github.com/donny-devops/openclaw-revenue-engine) &nbsp;·&nbsp; *`2026-09-29`*
 - ⭐ **Starred repository** [`actions/runner`](https://github.com/actions/runner) &nbsp;·&nbsp; *`2026-09-29`*
 - ⭐ **Starred repository** [`package-url/purl-spec`](https://github.com/package-url/purl-spec) &nbsp;·&nbsp; *`2026-09-29`*
-- ⭐ **Starred repository** [`anthropics/claude-code`](https://github.com/anthropics/claude-code) &nbsp;·&nbsp; *`2026-09-29`*
-- 🚀 **Pushed commits** to `main` in [`five-agent-os`](https://github.com/donny-devops/five-agent-os) &nbsp;·&nbsp; *`2026-09-28`*
 <!-- RECENT_ACTIVITY:END -->
 
 ---
