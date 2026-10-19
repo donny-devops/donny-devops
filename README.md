@@ -66,12 +66,12 @@ Solutions Architect • DevOps Engineer • Agentic Systems Specialist — based
 ## 📡 Live Recent Activity
 
 <!-- RECENT_ACTIVITY:START -->
+- ⭐ **Starred repository** [`zetxek/adritian-free-hugo-theme`](https://github.com/zetxek/adritian-free-hugo-theme) &nbsp;·&nbsp; *`2026-10-18`*
+- 🌱 **Created branch** `permission-check-delete-me` in [`github-actions-templates`](https://github.com/donny-devops/github-actions-templates) &nbsp;·&nbsp; *`2026-10-18`*
 - 🌱 **Created branch** `dependabot/github_actions/step-security/harden-runner-2.22.1` in [`five-agent-os`](https://github.com/donny-devops/five-agent-os) &nbsp;·&nbsp; *`2026-10-14`*
 - 🟢 **Closed PR** #34 in [`five-agent-os`](https://github.com/donny-devops/five-agent-os) &nbsp;·&nbsp; *`2026-10-10`*
 - 🟢 **Closed PR** #37 in [`five-agent-os`](https://github.com/donny-devops/five-agent-os) &nbsp;·&nbsp; *`2026-10-14`*
 - 🟢 **Closed PR** #36 in [`five-agent-os`](https://github.com/donny-devops/five-agent-os) &nbsp;·&nbsp; *`2026-10-10`*
-- 🟢 **Closed PR** #31 in [`five-agent-os`](https://github.com/donny-devops/five-agent-os) &nbsp;·&nbsp; *`2026-09-28`*
-- 🟢 **Closed PR** #33 in [`five-agent-os`](https://github.com/donny-devops/five-agent-os) &nbsp;·&nbsp; *`2026-10-03`*
 <!-- RECENT_ACTIVITY:END -->
 
 ---
