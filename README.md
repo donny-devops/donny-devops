@@ -142,7 +142,6 @@ Solutions Architect • DevOps Engineer • Agentic Systems Specialist — based
 <br>
 
 - **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** — NIST FIPS 203/204/205 reference implementation & hybrid TLS patterns.
-- **[pqc-sdk](https://github.com/donny-devops/pqc-sdk)** — Post-Quantum Cryptography SDK (Kyber/ML-KEM, Dilithium/ML-DSA, SPHINCS+/SLH-DSA).
 - **[docker-hacking-lab](https://github.com/donny-devops/docker-hacking-lab)** — Dockerized ethical hacking, security testing & CTF lab environment.
 
 </details>
