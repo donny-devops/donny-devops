@@ -52,12 +52,12 @@
 <summary><b>💡 Tap to read more</b></summary>
 <br>
 
-Solutions Architect • DevOps Engineer • Agentic Systems Specialist — based in the **Miami–Ft. Lauderdale area**, building secure, autonomous infrastructure and scalable, compliant systems for the **Agentic AI era**.
+DevOps Engineer • IT Solutions Developer • Agentic Systems Specialist — based in the **Miami–Ft. Lauderdale area**, building secure, autonomous infrastructure and scalable, compliant systems for the **Agentic AI era**.
 
 - 🛡️ **Post-Quantum Cryptography** migration & hybrid cryptographic systems (ML-KEM / ML-DSA / SLH-DSA)
 - 🤖 **AgenticOps & Multi-Agent Orchestration** for autonomous operations
 - 🏗️ Production-grade **IaC, CI/CD, and observability** platforms
-- 🔁 End-to-end **RPA, Workflow Orchestration & Loop Engineering**
+- 🔁 End-to-end **process automation and multi-agent workflow orchestration**
 
 </details>
 
@@ -130,10 +130,11 @@ Solutions Architect • DevOps Engineer • Agentic Systems Specialist — based
 <summary><b>🤖 Agentic & Autonomous Systems</b></summary>
 <br>
 
-- **[pipefish-labs](https://github.com/donny-devops/pipefish-labs)** — Autonomous AI Multi-Agent Systems, Zero-Trust Infrastructure, MLOps & Enterprise Workflow Engineering.
+- **[pipefish-labs](https://github.com/donny-devops/pipefish-labs)** - Autonomous AI Multi-Agent Systems, Zero-Trust Infrastructure, MLOps & Enterprise Workflow Engineering.
+- **[api-saas-decision-engine](https://github.com/donny-devops/api-saas-decision-engine)** - High-performance decision-making engine and API gateway service designed for automated SaaS workflows, routing logic, and real-time evaluation.
 - **[five-agent-os](https://github.com/donny-devops/five-agent-os)** — Multi-agent orchestration system with specialized workers (routing, knowledge, action, memory, guardian).
-- **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** — Self-hosted revenue metering, billing & dashboard engine for agent platforms.
-- **[pipefish-recon](https://github.com/donny-devops/pipefish-recon)** — Post-quantum multi-agent threat intelligence platform (Rust).
+- **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** - Self-hosted revenue metering, billing & dashboard engine for agent platforms.
+- **[pipefish-recon](https://github.com/donny-devops/pipefish-recon)** - Post-quantum multi-agent threat intelligence platform (Rust).
 
 </details>
 
