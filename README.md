@@ -52,7 +52,7 @@
 <summary><b>💡 Tap to read more</b></summary>
 <br>
 
-DevOps Engineer • IT Solutions Developer • Agentic Systems Specialist — based in the **Miami–Ft. Lauderdale area**, building secure, autonomous infrastructure and scalable, compliant systems for the **Agentic AI era**.
+DevOps Engineer • IT Solutions Developer • Agentic Systems Specialist - based in the **Miami–Ft. Lauderdale area**, building secure, autonomous infrastructure and scalable, compliant systems for the **Agentic AI era**.
 
 - 🛡️ **Post-Quantum Cryptography** migration & hybrid cryptographic systems (ML-KEM / ML-DSA / SLH-DSA)
 - 🤖 **AgenticOps & Multi-Agent Orchestration** for autonomous operations
@@ -132,7 +132,7 @@ DevOps Engineer • IT Solutions Developer • Agentic Systems Specialist — ba
 
 - **[pipefish-labs](https://github.com/donny-devops/pipefish-labs)** - Autonomous AI Multi-Agent Systems, Zero-Trust Infrastructure, MLOps & Enterprise Workflow Engineering.
 - **[api-saas-decision-engine](https://github.com/donny-devops/api-saas-decision-engine)** - High-performance decision-making engine and API gateway service designed for automated SaaS workflows, routing logic, and real-time evaluation.
-- **[five-agent-os](https://github.com/donny-devops/five-agent-os)** — Multi-agent orchestration system with specialized workers (routing, knowledge, action, memory, guardian).
+- **[five-agent-os](https://github.com/donny-devops/five-agent-os)** - Multi-agent orchestration system with specialized workers (routing, knowledge, action, memory, guardian).
 - **[openclaw-revenue-engine](https://github.com/donny-devops/openclaw-revenue-engine)** - Self-hosted revenue metering, billing & dashboard engine for agent platforms.
 - **[pipefish-recon](https://github.com/donny-devops/pipefish-recon)** - Post-quantum multi-agent threat intelligence platform (Rust).
 
@@ -142,8 +142,8 @@ DevOps Engineer • IT Solutions Developer • Agentic Systems Specialist — ba
 <summary><b>🛡️ Security & Post-Quantum</b></summary>
 <br>
 
-- **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** — NIST FIPS 203/204/205 reference implementation & hybrid TLS patterns.
-- **[docker-hacking-lab](https://github.com/donny-devops/docker-hacking-lab)** — Dockerized ethical hacking, security testing & CTF lab environment.
+- **[post-quantum-studio](https://github.com/donny-devops/post-quantum-studio)** - NIST FIPS 203/204/205 reference implementation & hybrid TLS patterns.
+- **[docker-hacking-lab](https://github.com/donny-devops/docker-hacking-lab)** - Dockerized ethical hacking, security testing & CTF lab environment.
 
 </details>
 
@@ -151,12 +151,12 @@ DevOps Engineer • IT Solutions Developer • Agentic Systems Specialist — ba
 <summary><b>🏗️ DevOps & Platform Engineering</b></summary>
 <br>
 
-- **[terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules)** — Production-ready Terraform modules for AWS (VPC, ECS, RDS, IAM, Zero-Trust).
-- **[github-actions-templates](https://github.com/donny-devops/github-actions-templates)** — Reusable secure CI/CD workflows, release automation, and OIDC pipelines.
-- **[jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library)** — Shared Groovy pipeline library for enterprise CI/CD-as-code.
-- **[infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard)** — Production Grafana dashboards + Prometheus + Alertmanager stack.
-- **[fastapi-starter-kit](https://github.com/donny-devops/fastapi-starter-kit)** — Production-ready FastAPI boilerplate: async SQLAlchemy, JWT auth, Alembic & Docker.
-- **[cloudflare-workers-templates](https://github.com/donny-devops/cloudflare-workers-templates)** — Production Cloudflare Workers & Workflows starter with real-time WebSocket state streaming.
+- **[terraform-aws-modules](https://github.com/donny-devops/terraform-aws-modules)** - Production-ready Terraform modules for AWS (VPC, ECS, RDS, IAM, Zero-Trust).
+- **[github-actions-templates](https://github.com/donny-devops/github-actions-templates)** - Reusable secure CI/CD workflows, release automation, and OIDC pipelines.
+- **[jenkins-pipeline-library](https://github.com/donny-devops/jenkins-pipeline-library)** - Shared Groovy pipeline library for enterprise CI/CD-as-code.
+- **[infra-monitoring-dashboard](https://github.com/donny-devops/infra-monitoring-dashboard)** - Production Grafana dashboards + Prometheus + Alertmanager stack.
+- **[fastapi-starter-kit](https://github.com/donny-devops/fastapi-starter-kit)** - Production-ready FastAPI boilerplate: async SQLAlchemy, JWT auth, Alembic & Docker.
+- **[cloudflare-workers-templates](https://github.com/donny-devops/cloudflare-workers-templates)** - Production Cloudflare Workers & Workflows starter with real-time WebSocket state streaming.
 
 </details>
 
