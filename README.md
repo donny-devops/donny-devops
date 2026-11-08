@@ -66,12 +66,12 @@ DevOps Engineer • IT Solutions Developer • Agentic Systems Specialist - base
 ## 📡 Live Recent Activity
 
 <!-- RECENT_ACTIVITY:START -->
+- 🚀 **Pushed commits** to `security/hardening-scrypt-ssrf-audit` in [`api-saas-decision-engine`](https://github.com/donny-devops/api-saas-decision-engine) &nbsp;·&nbsp; *`2026-11-07`*
+- 🌱 **Created branch** `alert-autofix-3` in [`api-saas-decision-engine`](https://github.com/donny-devops/api-saas-decision-engine) &nbsp;·&nbsp; *`2026-11-07`*
+- 🌱 **Created branch** `security/hardening-scrypt-ssrf-audit` in [`api-saas-decision-engine`](https://github.com/donny-devops/api-saas-decision-engine) &nbsp;·&nbsp; *`2026-11-07`*
+- 🚀 **Pushed commits** to `fix/scrypt-dos-guard` in [`api-saas-decision-engine`](https://github.com/donny-devops/api-saas-decision-engine) &nbsp;·&nbsp; *`2026-11-07`*
 - ⭐ **Starred repository** [`mvanhorn/last30days-skill`](https://github.com/mvanhorn/last30days-skill) &nbsp;·&nbsp; *`2026-11-07`*
 - 🟣 **Merged PR** #11 in [`api-saas-decision-engine`](https://github.com/donny-devops/api-saas-decision-engine) &nbsp;·&nbsp; *`2026-11-07`*
-- 🟢 **Assigned PR** #11 in [`api-saas-decision-engine`](https://github.com/donny-devops/api-saas-decision-engine) &nbsp;·&nbsp; *`2026-11-07`*
-- 🟢 **Opened PR** #11 in [`api-saas-decision-engine`](https://github.com/donny-devops/api-saas-decision-engine) &nbsp;·&nbsp; *`2026-11-07`*
-- 🚀 **Pushed commits** to `main` in [`donny-devops`](https://github.com/donny-devops/donny-devops) &nbsp;·&nbsp; *`2026-10-26`*
-- 🟢 **Assigned PR** #15 in [`donny-devops`](https://github.com/donny-devops/donny-devops) &nbsp;·&nbsp; *`2026-10-09`*
 <!-- RECENT_ACTIVITY:END -->
 
 ---
