@@ -66,12 +66,12 @@ DevOps Engineer • IT Solutions Developer • Agentic Systems Specialist - base
 ## 📡 Live Recent Activity
 
 <!-- RECENT_ACTIVITY:START -->
+- ⭐ **Starred repository** [`greeenredyellow/remoteopenclaw-mcp`](https://github.com/greeenredyellow/remoteopenclaw-mcp) &nbsp;·&nbsp; *`2026-11-14`*
+- ⭐ **Starred repository** [`greeenredyellow/gameio-addons`](https://github.com/greeenredyellow/gameio-addons) &nbsp;·&nbsp; *`2026-11-14`*
+- ⭐ **Starred repository** [`greeenredyellow/gameio`](https://github.com/greeenredyellow/gameio) &nbsp;·&nbsp; *`2026-11-14`*
 - ⭐ **Starred repository** [`jellydn/zed-101-setup`](https://github.com/jellydn/zed-101-setup) &nbsp;·&nbsp; *`2026-11-13`*
 - ⭐ **Starred repository** [`ModernRelay/omnigraph`](https://github.com/ModernRelay/omnigraph) &nbsp;·&nbsp; *`2026-11-13`*
 - ⭐ **Starred repository** [`trickest/cve`](https://github.com/trickest/cve) &nbsp;·&nbsp; *`2026-11-13`*
-- ⭐ **Starred repository** [`numtide/llm-agents.nix`](https://github.com/numtide/llm-agents.nix) &nbsp;·&nbsp; *`2026-11-13`*
-- ⭐ **Starred repository** [`softprops/turnstyle`](https://github.com/softprops/turnstyle) &nbsp;·&nbsp; *`2026-11-13`*
-- ⭐ **Starred repository** [`sonos/tract`](https://github.com/sonos/tract) &nbsp;·&nbsp; *`2026-11-13`*
 <!-- RECENT_ACTIVITY:END -->
 
 ---
